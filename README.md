@@ -34,7 +34,7 @@ Ahora puedes enviar tu proyecto y ganar una insignia exclusiva para este desafí
 <li>Agregua el hashtag: "challengeoneconversorlatam5"</li>
 </ol>
 
-![gif vitrina](gif vitrina.gif)
+![gif vitrina](gif_vitrina.gif)
 
 Puedes visualizar tu proyecto y los proyectos de tus compañeros accediendo a Repositorio base - src.main.java.com.challenge_one_backend_conversor.Conversor de Moneda y haciendo clic en el tema challengeoneconversorlatam5 en la pestaña "Acerca de" o "About" en el menú lateral de GitHub.
 
